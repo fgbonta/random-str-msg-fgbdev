@@ -1,0 +1,16 @@
+{
+  "name": "random-str-msg-fgbdev",
+  "version": "1.0.0",
+  "description": "random string message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fernando Bonta <fgbonta@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-str-msg-fgbdev": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
